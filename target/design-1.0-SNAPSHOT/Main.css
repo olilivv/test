@@ -1,0 +1,12 @@
+body {
+    background-image : url('background.png');
+    background-repeat : no-repeat;
+    background-size : cover;
+}
+h1 {
+    margin-left: 6px;
+    margin-top: 6px;
+    margin-bottom: 12px;
+    padding: 10px;
+    /*opacity: 0.5;*/
+}
